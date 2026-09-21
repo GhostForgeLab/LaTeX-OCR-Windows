@@ -1,0 +1,22 @@
+__pycache__/
+*.py[cod]
+*.pyd
+*.log
+
+build/
+dist/
+output/
+*.spec.bak
+
+.venv/
+venv/
+env/
+
+.idea/
+.vscode/
+.DS_Store
+Thumbs.db
+
+# Downloaded model files
+models/
+*.pth
